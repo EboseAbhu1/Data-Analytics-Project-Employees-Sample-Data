@@ -43,3 +43,9 @@ Removing duplicates, Data cleaning, data manipulation, Data analysis, filtering,
 Changing data formats, filling void and blanks
 
 Open Power BI and import data, transform data and creating visuals 
+
+## Dashboard
+![Screenshot (23)](https://github.com/user-attachments/assets/3d485c59-b3c3-4862-9145-8417484aaddb)
+
+
+
