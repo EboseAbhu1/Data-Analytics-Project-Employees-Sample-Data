@@ -1,5 +1,5 @@
 # Employees Sample data Report
-This project contains an employee sample data analysis report created using Power BI.
+This project contains an employee sample data analysis report created using Power BI. The data includes employees from 1993 up to 2022, with an overview of employees added in specific years.
 
 ## Project Objective
 **Analyzing Employee Demographics**: Understand employee distribution based on factors like gender, ethnicity, and country.
@@ -10,7 +10,6 @@ This project contains an employee sample data analysis report created using Powe
 
 **Performance Insights**: Identify patterns or insights to optimize workforce planning and resource allocation.
 
-The data includes employees from 1993 up to 2022, with an overview of employees added in specific years.
 
 ## Dataset used
 - <a href= "https://github.com/EboseAbhu1/Data-Analytics-Project-Employees-Sample-Data/blob/main/Employee%20Sample%20Data%20-%20Portfolio.xlsx" >Dataset<a/>
