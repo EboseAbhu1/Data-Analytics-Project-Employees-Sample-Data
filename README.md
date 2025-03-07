@@ -35,3 +35,12 @@ What are the ethnic demographics of employees?
 What percentage of employees are located in each country?
 
 Which countries have the highest concentration of employees?
+
+## Process
+Loading data to an excel sheet
+
+Removing duplicates, Data cleaning, data manipulation, Data analysis, filtering, sorting data
+
+Changing data formats, filling void and blanks
+
+Open Power BI and import data, transform data and creating visuals 
